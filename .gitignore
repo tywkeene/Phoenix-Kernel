@@ -1,0 +1,4 @@
+*.o
+*.swp
+phoenix-kernel.bin
+kernel-syms
